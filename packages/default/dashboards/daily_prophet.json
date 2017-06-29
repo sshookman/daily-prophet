@@ -1,0 +1,26 @@
+{
+  "title": "The Daily Prophet",
+  "titleVisible": false,
+  "description": "Harry Potter - Daily Prophet - Dashboard",
+
+  "layout": {
+    "customJS" : ["jquery.peity.js"],
+    "widgets" : [
+      {"row" : 1, "col" : 1, "width" : 5, "height" : 1, "widget" : "banner","job": "banner", "config": "banner"},
+      {"row" : 2, "col" : 1, "width" : 2, "height" : 4, "widget" : "headlines", "job": "headlines", "config": "headlines"},
+      {"row" : 2, "col" : 3, "width" : 3, "height" : 2, "widget" : "weather", "job": "weather", "config": "weather"}
+    ]
+  },
+
+  "config" : {
+    "banner": {
+        "url": "http://i1066.photobucket.com/albums/u416/myrpbucket/TheDailyProphetLayout/1%20Head%20title_zpscrdaz8oo.png"
+    },
+    "headlines": {
+
+    },
+    "weather": {
+
+    }
+  }
+}

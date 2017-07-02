@@ -4,22 +4,40 @@
   "description": "Harry Potter - Daily Prophet - Dashboard",
 
   "layout": {
+    "gridSize" : { "columns" : 10, "rows" : 6},
     "customJS" : ["jquery.peity.js"],
     "widgets" : [
-      {"row" : 1, "col" : 1, "width" : 5, "height" : 1, "widget" : "banner","job": "banner", "config": "banner"},
-      {"row" : 2, "col" : 1, "width" : 2, "height" : 4, "widget" : "headlines", "job": "headlines", "config": "headlines"},
-      {"row" : 2, "col" : 3, "width" : 3, "height" : 2, "widget" : "weather", "job": "weather", "config": "weather"}
+      {"row" : 1, "col" : 1, "width" : 10, "height" : 3, "widget" : "banner","job": "banner", "config": "banner"},
+
+      {"row" : 4, "col" : 1, "width" : 2, "height" : 4, "widget" : "story", "job": "story", "config": "story"},
+      {"row" : 4, "col" : 3, "width" : 2, "height" : 8, "widget" : "headlines", "job": "headlines", "config": "headlines"},
+      {"row" : 4, "col" : 5, "width" : 4, "height" : 4, "widget" : "weather", "job": "weather", "config": "weather"},
+      {"row" : 4, "col" : 9, "width" : 2, "height" : 6, "widget" : "story", "job": "story", "config": "story"},
+
+      {"row" : 8, "col" : 1, "width" : 2, "height" : 4, "widget" : "story", "job": "story", "config": "story"},
+      {"row" : 8, "col" : 5, "width" : 2, "height" : 4, "widget" : "story", "job": "story", "config": "story"},
+      {"row" : 8, "col" : 7, "width" : 2, "height" : 8, "widget" : "story", "job": "story", "config": "story"},
+
+      {"row" : 10, "col" : 9, "width" : 2, "height" : 6, "widget" : "story", "job": "story", "config": "story"},
+
+      {"row" : 12, "col" : 1, "width" : 6, "height" : 4, "widget" : "story", "job": "story", "config": "story"},
+
+      {"row" : 16, "col" : 1, "width" : 4, "height" : 4, "widget" : "story", "job": "story", "config": "story"},
+      {"row" : 16, "col" : 5, "width" : 6, "height" : 4, "widget" : "story", "job": "story", "config": "story"}
     ]
   },
 
   "config" : {
     "banner": {
-        "url": "http://i1066.photobucket.com/albums/u416/myrpbucket/TheDailyProphetLayout/1%20Head%20title_zpscrdaz8oo.png"
+
     },
     "headlines": {
 
     },
     "weather": {
+
+    },
+    "story": {
 
     }
   }

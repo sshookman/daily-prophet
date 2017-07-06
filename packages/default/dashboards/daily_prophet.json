@@ -1,7 +1,7 @@
 {
   "title": "The Daily Prophet",
   "titleVisible": false,
-  "description": "Harry Potter - Daily Prophet - Dashboard",
+  "description": "Harry Potter: Daily Prophet - News and Weather with style!",
 
   "layout": {
     "gridSize" : { "columns" : 6, "rows" : 6},
@@ -27,7 +27,7 @@
 
     },
     "headlines": {
-
+        "source": "https://newsapi.org/v1/articles?source=google-news&sortBy=top&apiKey="
     },
     "weather": {
 

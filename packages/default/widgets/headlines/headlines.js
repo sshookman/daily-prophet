@@ -1,5 +1,9 @@
 widget = {
 
   onData: function (el, data) {
+    console.log(data);
+    if (data.news) {
+      $('h2', el).text(data.news.source);
+    }
   }
 };

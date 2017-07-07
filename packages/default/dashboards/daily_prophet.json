@@ -21,19 +21,4 @@
       {"row" : 17, "col" : 3, "width" : 4, "height" : 4, "widget" : "story", "job": "story", "config": "story"}
     ]
   },
-
-  "config" : {
-    "banner": {
-
-    },
-    "headlines": {
-        "source": "https://newsapi.org/v1/articles?source=google-news&sortBy=top&apiKey="
-    },
-    "weather": {
-
-    },
-    "story": {
-
-    }
-  }
 }

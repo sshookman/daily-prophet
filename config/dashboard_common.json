@@ -1,18 +1,16 @@
 {
-  "config" : {
-    "banner": {
+    "config" : {
+        "banner": {
 
-    },
-    "headlines": {
-        "source": "https://newsapi.org/v1/articles?source=google-news&sortBy=top&apiKey=",
-        "key": ""
-    },
-    "weather": {
-        "source": "http://api.wunderground.com/api/0443edeb256d62ec/forecast/q/IL/Orland_Park.json",
-        "key": ""
-    },
-    "story": {
+        },
+        "headlines": {
+            "host": "https://newsapi.org/v1/articles?source=google-news&sortBy=top&apiKey="
+        },
+        "weather": {
+            "host": "http://api.wunderground.com/api/{KEY}/forecast/q/IL/Orland_Park.json"
+        },
+        "story": {
 
+        }
     }
-  }
 }

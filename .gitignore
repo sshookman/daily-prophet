@@ -60,3 +60,4 @@ typings/
 # secrets
 secrets.json
 
+globalAuth.json

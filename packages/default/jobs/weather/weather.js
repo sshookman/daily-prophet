@@ -11,7 +11,7 @@ module.exports = {
                 var errMsg = err || "ERROR: Couldn't access the web page at " + config.url;
                 jobCallback(errMsg);
             } else {
-                jobCallback(null, {news: JSON.parse(body)});
+                jobCallback(null, {weather: JSON.parse(body)});
             }
         });
     }

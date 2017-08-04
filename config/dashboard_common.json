@@ -1,18 +1,4 @@
 {
     "config" : {
-        "banner": {
-
-        },
-        "headlines": {
-            "host": "https://newsapi.org/v1/articles?source=google-news&sortBy=top&apiKey=",
-            "authName": "news"
-        },
-        "weather": {
-            "host": "http://api.wunderground.com/api/{KEY}/forecast/q/IL/Orland_Park.json",
-            "authName": "weather"
-        },
-        "story": {
-
-        }
     }
 }

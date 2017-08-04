@@ -51,18 +51,24 @@ $widget-body-text-color = #000
 //$dashboard-title-color = $gray
 
 
-#main-container
+.dashboard
+    background-image: url(http://www.davemartinministries.com/blog/wp-content/uploads/2015/10/paper.jpg)
 
-    #widgets-container > ul
-        li  
-            border: solid 4px #000
-            -webkit-box-shadow: none
-            box-shadow: none
+    #main-container
 
-            h1
-                font-family: fantasy
-                font-size: 80px
-            
-        li:nth-child(1)
-            border: none
-            text-align: center
+        img
+            filter: sepia(100%) contrast(150%)
+
+        #widgets-container > ul
+            li
+                border: solid 4px #000
+                -webkit-box-shadow: none
+                box-shadow: none
+
+                h1
+                    font-family: fantasy
+                    font-size: 80px
+
+            li:nth-child(1)
+                border: none
+                text-align: center

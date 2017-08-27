@@ -9,8 +9,8 @@
     "widgets" : [
       {"row" : 1, "col" : 1, "width" : 6, "height" : 2, "widget" : "banner","job": "banner", "config": "banner"},
 
-      {"row" : 3, "col" : 1, "width" : 2, "height" : 8, "widget" : "headlines", "job": "headlines", "config": "headlines"},
-      {"row" : 3, "col" : 3, "width" : 4, "height" : 4, "widget" : "weather", "job": "weather", "config": "weather"},
+      {"row" : 3, "col" : 1, "width" : 2, "height" : 12, "widget" : "headlines", "job": "headlines", "config": "headlines"},
+      {"row" : 3, "col" : 3, "width" : 4, "height" : 2, "widget" : "weather", "job": "weather", "config": "weather"},
 
       {"row" : 7, "col" : 3, "width" : 2, "height" : 4, "widget" : "story", "job": "story", "config": "story"},
       {"row" : 7, "col" : 5, "width" : 2, "height" : 8, "widget" : "story", "job": "story", "config": "story"},

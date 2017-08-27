@@ -7,7 +7,7 @@ widget = {
         $content.empty();
 
         if (data.news.articles.length) {
-          for (var i = 0; i < 6; i++) {
+          for (var i = 0; i < 7; i++) {
             var article = data.news.articles[i];
             $content.append(
                 "<div class='news-story'>" +

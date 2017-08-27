@@ -1,0 +1,9 @@
+spells:
+- name: run
+  cmd: atlasboard start
+  options:
+  - ""
+- name: open
+  cmd: vivaldi http://localhost:3000/daily_prophet
+  options:
+  - ""

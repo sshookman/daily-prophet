@@ -12,13 +12,13 @@
       {"row" : 3, "col" : 1, "width" : 2, "height" : 12, "widget" : "headlines", "job": "headlines", "config": "headlines"},
       {"row" : 3, "col" : 3, "width" : 4, "height" : 2, "widget" : "weather", "job": "weather", "config": "weather"},
 
-      {"row" : 7, "col" : 3, "width" : 2, "height" : 4, "widget" : "story", "job": "story", "config": "story"},
-      {"row" : 7, "col" : 5, "width" : 2, "height" : 8, "widget" : "story", "job": "story", "config": "story"},
+      {"row" : 7, "col" : 3, "width" : 2, "height" : 4, "widget" : "story", "job": "story", "config": "storyA"},
+      {"row" : 7, "col" : 5, "width" : 2, "height" : 8, "widget" : "story", "job": "story", "config": "storyB"},
 
-      {"row" : 11, "col" : 1, "width" : 4, "height" : 4, "widget" : "story", "job": "story", "config": "story"},
+      {"row" : 11, "col" : 1, "width" : 4, "height" : 4, "widget" : "story", "job": "story", "config": "storyC"},
 
-      {"row" : 17, "col" : 1, "width" : 2, "height" : 4, "widget" : "story", "job": "story", "config": "story"},
-      {"row" : 17, "col" : 3, "width" : 4, "height" : 4, "widget" : "story", "job": "story", "config": "story"}
+      {"row" : 17, "col" : 1, "width" : 2, "height" : 4, "widget" : "story", "job": "story", "config": "storyD"},
+      {"row" : 17, "col" : 3, "width" : 4, "height" : 4, "widget" : "story", "job": "story", "config": "storyE"}
     ]
   },
 
@@ -34,8 +34,66 @@
             "host": "http://api.wunderground.com/api/{KEY}/forecast/q/IL/Orland_Park.json",
             "authName": "weather"
         },
-        "story": {
-
+        "storyA": {
+            "stories": [
+                {
+                    "file": "dp_01.gif",
+                    "passage": "HARRY POTTER CRAP"
+                },
+                {
+                    "file": "dp_02.gif",
+                    "passage": "HARRY POTTER CRAP"
+                }
+            ]
+        },
+        "storyB": {
+            "stories": [
+                {
+                    "file": "dp_03.gif",
+                    "passage": "HARRY POTTER CRAP"
+                },
+                {
+                    "file": "dp_04.gif",
+                    "passage": "HARRY POTTER CRAP"
+                }
+            ]
+        },
+        "storyC": {
+            "stories": [
+                {
+                    "file": "dp_05.gif",
+                    "passage": "HARRY POTTER CRAP"
+                },
+                {
+                    "file": "dp_06.gif",
+                    "passage": "HARRY POTTER CRAP"
+                }
+            ]
+        },
+        "storyD": {
+            "stories": [
+                {
+                    "file": "dp_07.gif",
+                    "passage": "HARRY POTTER CRAP"
+                },
+                {
+                    "file": "dp_08.gif",
+                    "passage": "HARRY POTTER CRAP"
+                }
+            ]
+        },
+        "storyE": {
+            "stories": [
+                {
+                    "file": "dp_09.gif",
+                    "passage": "HARRY POTTER CRAP"
+                },
+                {
+                    "file": "dp_10.gif",
+                    "passage": "HARRY POTTER CRAP"
+                }
+            ]
         }
+
     }
 }

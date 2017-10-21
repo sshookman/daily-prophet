@@ -12,7 +12,7 @@
       {"row" : 3, "col" : 1, "width" : 2, "height" : 12, "widget" : "headlines", "job": "headlines", "config": "headlines"},
       {"row" : 3, "col" : 3, "width" : 4, "height" : 2, "widget" : "weather", "job": "weather", "config": "weather"},
 
-      {"row" : 7, "col" : 3, "width" : 2, "height" : 4, "widget" : "story", "job": "story", "config": "storyA"},
+      {"row" : 7, "col" : 3, "width" : 2, "height" : 8, "widget" : "story", "job": "story", "config": "storyA"},
       {"row" : 7, "col" : 5, "width" : 2, "height" : 8, "widget" : "story", "job": "story", "config": "storyB"},
 
       {"row" : 11, "col" : 1, "width" : 4, "height" : 4, "widget" : "story", "job": "story", "config": "storyC"},
@@ -38,11 +38,11 @@
             "stories": [
                 {
                     "file": "dp_01.gif",
-                    "passage": "HARRY POTTER CRAP"
+                    "passage": "October arrived, spreading a damp chill over the grounds and into the castle. Madam Pomfrey, the nurse, was kept busy by a sudden spate of colds among the staff and students. Her Pepperup potion worked instantly, though it left the drinker smoking at the ears for several hours afterward. Ginny Weasley, who had been looking pale, was bullied into taking some by Percy. The steam pouring from under her vivid hair gave the impression that her whole head was on fire.\nRaindrops the size of bullets thundered on the castle windows for days on end; the lake rose, the flower beds turned into muddy streams, and Hagrid's pumpkins swelled to the size of garden sheds. Oliver Wood's enthusiasm for regular training sessions, however, was not dampened, which was why Harry was to be found, late one stormy Saturday afternoon a few days before Halloween, returning to Gryffindor Tower, drenched to the skin and splattered with mud. "
                 },
                 {
                     "file": "dp_02.gif",
-                    "passage": "HARRY POTTER CRAP"
+                    "passage": "Intrigued, Harry flicked the envelope open and pulled out the sheaf of parchment inside. More curly silver writing on the front page said: Feel out of step in the world of modern magic? Find yourself making excuses not to perform simple spells? Ever been taunted for your woeful wandwork? There is an answer! Kwikspell is an all-new, fail-safe, quick-result, easy-learn course. Hundreds of witches and wizards have benefited from the Kwikspell method! Madam Z. Nettles of Topsham writes: &quot;I had no memory for incantations and my potions were a family joke! Now, after a Kwikspell course, I am the center of attention at parties and friends beg for the recipe of my Scintillation Solution!"
                 }
             ]
         },
@@ -50,11 +50,11 @@
             "stories": [
                 {
                     "file": "dp_03.gif",
-                    "passage": "HARRY POTTER CRAP"
+                    "passage": "It was a very sunny Saturday and the zoo was crowded with families. The Dursleys bought Dudley and Piers large chocolate ice creams at the entrance and then, because the smiling lady in the van had asked Harry what he wanted before they could hurry him away, they bought him a cheap lemon ice pop. It wasn't bad, either, Harry thought, licking it as they watched a gorilla scratching its head who looked remarkably like Dudley, except that it wasn't blond.\nHarry had the best morning he'd had in a long time. He was careful to walk a little way apart from the Dursleys so that Dudley and Piers, who were starting to get bored with the animals by lunchtime, wouldn't fall back on their favorite hobby of hitting him. They ate in the zoo restaurant, and when Dudley had a tantrum because his knickerbocker glory didn't have enough ice cream on top, Uncle Vernon bought him another one and Harry was allowed to finish the first."
                 },
                 {
                     "file": "dp_04.gif",
-                    "passage": "HARRY POTTER CRAP"
+                    "passage": "About once a week, Uncle Vernon looked over the top of his newspaper and shouted that Harry needed a haircut. Harry must have had more haircuts than the rest of the boys in his class put together, but it made no difference, his hair simply grew that way - all over the place.\nHarry was frying eggs by the time Dudley arrived in the kitchen with his mother. Dudley looked a lot like Uncle Vernon. He had a large pink face, not much neck, small, watery blue eyes, and thick blond hair that lay smoothly on his thick, fat head. Aunt Petunia often said that Dudley looked like a baby angel - Harry often said that Dudley looked like a pig in a wig.Harry put the plates of egg and bacon on the table, which was difficult as there wasn't much room. Dudley, meanwhile, was counting his presents. His face fell.\n&quot;Thirty-six,&quot; he said, looking up at his mother and father. &quot;That's two less than last year.&quot;"
                 }
             ]
         },
@@ -62,11 +62,11 @@
             "stories": [
                 {
                     "file": "dp_05.gif",
-                    "passage": "HARRY POTTER CRAP"
+                    "passage": "Perhaps it had something to do with living in a dark cupboard, but Harry had always been small and skinny for his age. He looked even smaller and skinnier than he really was because all he had to wear were old clothes of Dudley's, and Dudley was about four times bigger than he was. Harry had a thin face, knobbly knees, black hair, and bright green eyes. He wore round glasses held together with a lot of Scotch tape because of all the times Dudley had punched him on the nose. The only thing Harry liked about his own appearance was a very thin scar on his forehead that was shaped like a bolt of lightning. He had had it as long as he could remember, and the first question he could ever remember asking his Aunt Petunia was how he had gotten it."
                 },
                 {
                     "file": "dp_06.gif",
-                    "passage": "HARRY POTTER CRAP"
+                    "passage": "&quot;Bad news, Vernon,&quot; she said. &quot;Mrs. Figg's broken her leg. She can't take him.&quot; She jerked her head in Harry's direction.\nDudley's mouth fell open in horror, but Harry's heart gave a leap. Every year on Dudley's birthday, his parents took him and a friend out for the day, to adventure parks, hamburger restaurants, or the movies. Every year, Harry was left behind with Mrs. Figg, a mad old lady who lived two streets away. Harry hated it there. The whole house smelled of cabbage and Mrs. Figg made him look at photographs of all the cats she'd ever owned.\n&quot;Now what?&quot; said Aunt Petunia, looking furiously at Harry as though he'd planned this. Harry knew he ought to feel sorry that Mrs. Figg had broken her leg, but it wasn't easy when he reminded himself it would be a whole year before he had to look at Tibbles, Snowy, Mr. Paws, and Tufty again."
                 }
             ]
         },
@@ -74,11 +74,11 @@
             "stories": [
                 {
                     "file": "dp_07.gif",
-                    "passage": "HARRY POTTER CRAP"
+                    "passage": "The horses galloped into the middle of the dance floor and halted, rearing and plunging. At the front of the pack was a large ghost who held his bearded head under his arm, from which position he was blowing the horn. The ghost leapt down, lifted his head high in the air so he could see over the crowd (everyone laughed), and strode over to Nearly Headless Nick, squashing his head back onto his neck."
                 },
                 {
                     "file": "dp_08.gif",
-                    "passage": "HARRY POTTER CRAP"
+                    "passage": "Just then, the doorbell rang - &quot;Oh, good Lord, they're here!&quot; said Aunt Petunia frantically - and a moment later, Dudley's best friend, Piers Polkiss, walked in with his mother. Piers was a scrawny boy with a face like a rat. He was usually the one who held people's arms behind their backs while Dudley hit them. Dudley stopped pretending to cry at once."
                 }
             ]
         },
@@ -86,11 +86,11 @@
             "stories": [
                 {
                     "file": "dp_09.gif",
-                    "passage": "HARRY POTTER CRAP"
+                    "passage": "Unlike the ghosts around them, Peeves the Poltergeist was the very reverse of pale and transparent. He was wearing a bright orange party hat, a revolving bow tie, and a broad grin on his wide, wicked face."
                 },
                 {
                     "file": "dp_10.gif",
-                    "passage": "HARRY POTTER CRAP"
+                    "passage": "&quot;I expect they've let it rot to give it a stronger flavor,&quot; said Hermione knowledgeably, pinching her nose and leaning closer to look at the putrid haggis.&quot;Can we move? I feel sick,&quot; said Ron.\nThey had barely turned around, however, when a little man swooped suddenly from under the table and came to a halt in midair before them."
                 }
             ]
         }

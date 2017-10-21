@@ -11,8 +11,10 @@ widget = {
     $content.empty();
 
     $content.append(
+        "<div class='story'>" +
         "<img class='gif' src='/widgets/resources?resource=default/story/" + story.file + "'>" +
-        "<div class='passage'>" + story.passage + "</div>"
+        "<div class='passage'>" + story.passage + "</div>" +
+        "</div>"
     );
   }
 };

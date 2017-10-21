@@ -12,8 +12,7 @@ widget = {
                     "<div class='news-story'>" +
                     "<img class='thumb' src='" + article.urlToImage + "'></img>" +
                     "<div class='title'>" + article.title + "</div>" +
-                    "</div>" +
-                    "<div class='description'>" + article.description + "</div>"
+                    "</div>"
                 );
             }
         }

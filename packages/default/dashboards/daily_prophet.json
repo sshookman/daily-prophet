@@ -18,7 +18,7 @@
       {"row" : 11, "col" : 1, "width" : 4, "height" : 4, "widget" : "story", "job": "story", "config": "storyC"},
 
       {"row" : 18, "col" : 1, "width" : 2, "height" : 4, "widget" : "story", "job": "story", "config": "storyD"},
-      {"row" : 17, "col" : 3, "width" : 4, "height" : 4, "widget" : "story", "job": "story", "config": "storyE"}
+      {"row" : 18, "col" : 3, "width" : 4, "height" : 4, "widget" : "story", "job": "story", "config": "storyE"}
     ]
   },
 
@@ -35,10 +35,11 @@
             "authName": "weather"
         },
         "storyA": {
+            "interval":600000,
             "stories": [
                 {
                     "file": "dp_01.gif",
-                    "passage": "October arrived, spreading a damp chill over the grounds and into the castle. Madam Pomfrey, the nurse, was kept busy by a sudden spate of colds among the staff and students. Her Pepperup potion worked instantly, though it left the drinker smoking at the ears for several hours afterward. Ginny Weasley, who had been looking pale, was bullied into taking some by Percy. The steam pouring from under her vivid hair gave the impression that her whole head was on fire.\nRaindrops the size of bullets thundered on the castle windows for days on end; the lake rose, the flower beds turned into muddy streams, and Hagrid's pumpkins swelled to the size of garden sheds. Oliver Wood's enthusiasm for regular training sessions, however, was not dampened, which was why Harry was to be found, late one stormy Saturday afternoon a few days before Halloween, returning to Gryffindor Tower, drenched to the skin and splattered with mud. "
+                    "passage": "October arrived, spreading a damp chill over the grounds and into the castle. Madam Pomfrey, the nurse, was kept busy by a sudden spate of colds among the staff and students. Her Pepperup potion worked instantly, though it left the drinker smoking at the ears for several hours afterward. Ginny Weasley, who had been looking pale, was bullied into taking some by Percy. The steam pouring from under her vivid hair gave the impression that her whole head was on fire.\nRaindrops the size of bullets thundered on the castle windows for days on end; the lake rose, the flower beds turned into muddy streams, and Hagrid's pumpkins swelled to the size of garden sheds."
                 },
                 {
                     "file": "dp_02.gif",
@@ -47,10 +48,11 @@
             ]
         },
         "storyB": {
+            "interval":600000,
             "stories": [
                 {
                     "file": "dp_03.gif",
-                    "passage": "It was a very sunny Saturday and the zoo was crowded with families. The Dursleys bought Dudley and Piers large chocolate ice creams at the entrance and then, because the smiling lady in the van had asked Harry what he wanted before they could hurry him away, they bought him a cheap lemon ice pop. It wasn't bad, either, Harry thought, licking it as they watched a gorilla scratching its head who looked remarkably like Dudley, except that it wasn't blond.\nHarry had the best morning he'd had in a long time. He was careful to walk a little way apart from the Dursleys so that Dudley and Piers, who were starting to get bored with the animals by lunchtime, wouldn't fall back on their favorite hobby of hitting him. They ate in the zoo restaurant, and when Dudley had a tantrum because his knickerbocker glory didn't have enough ice cream on top, Uncle Vernon bought him another one and Harry was allowed to finish the first."
+                    "passage": "It was a very sunny Saturday and the zoo was crowded with families. The Dursleys bought Dudley and Piers large chocolate ice creams at the entrance and then, because the smiling lady in the van had asked Harry what he wanted before they could hurry him away, they bought him a cheap lemon ice pop. It wasn't bad, either, Harry thought, licking it as they watched a gorilla scratching its head who looked remarkably like Dudley, except that it wasn't blond.\nHarry had the best morning he'd had in a long time. He was careful to walk a little way apart from the Dursleys so that Dudley and Piers, who were starting to get bored with the animals by lunchtime, wouldn't fall back on their favorite hobby of hitting him."
                 },
                 {
                     "file": "dp_04.gif",
@@ -59,18 +61,22 @@
             ]
         },
         "storyC": {
+            "interval":600000,
             "stories": [
                 {
                     "file": "dp_05.gif",
-                    "passage": "Perhaps it had something to do with living in a dark cupboard, but Harry had always been small and skinny for his age. He looked even smaller and skinnier than he really was because all he had to wear were old clothes of Dudley's, and Dudley was about four times bigger than he was. Harry had a thin face, knobbly knees, black hair, and bright green eyes. He wore round glasses held together with a lot of Scotch tape because of all the times Dudley had punched him on the nose. The only thing Harry liked about his own appearance was a very thin scar on his forehead that was shaped like a bolt of lightning. He had had it as long as he could remember, and the first question he could ever remember asking his Aunt Petunia was how he had gotten it."
+                    "passage_top": "Perhaps it had something to do with living in a dark cupboard, but Harry had always been small and skinny for his age. He looked even smaller and skinnier than he really was because all he had to wear were old clothes of Dudley's, and Dudley",
+                    "passage": "was about four times bigger than he was. Harry had a thin face, knobbly knees, black hair, and bright green eyes. He wore round glasses held together with a lot of Scotch tape because of all the times Dudley had punched him on the nose. The only thing Harry liked about his own appearance was a very thin scar on his forehead that was shaped like a bolt of lightning. He had had it as long as he could remember, and the first question he could ever remember asking his Aunt Petunia was how he had gotten it."
                 },
                 {
                     "file": "dp_06.gif",
-                    "passage": "&quot;Bad news, Vernon,&quot; she said. &quot;Mrs. Figg's broken her leg. She can't take him.&quot; She jerked her head in Harry's direction.\nDudley's mouth fell open in horror, but Harry's heart gave a leap. Every year on Dudley's birthday, his parents took him and a friend out for the day, to adventure parks, hamburger restaurants, or the movies. Every year, Harry was left behind with Mrs. Figg, a mad old lady who lived two streets away. Harry hated it there. The whole house smelled of cabbage and Mrs. Figg made him look at photographs of all the cats she'd ever owned.\n&quot;Now what?&quot; said Aunt Petunia, looking furiously at Harry as though he'd planned this. Harry knew he ought to feel sorry that Mrs. Figg had broken her leg, but it wasn't easy when he reminded himself it would be a whole year before he had to look at Tibbles, Snowy, Mr. Paws, and Tufty again."
+                    "passage_top": "&quot;Bad news, Vernon,&quot; she said. &quot;Mrs. Figg's broken her leg. She can't take him.&quot; She jerked her head in Harry's direction.\nDudley's mouth fell open in horror, but Harry's heart gave a leap.",
+                    "passage": "Every year on Dudley's birthday, his parents took him and a friend out for the day, to adventure parks, hamburger restaurants, or the movies. Every year, Harry was left behind with Mrs. Figg, a mad old lady who lived two streets away. Harry hated it there. The whole house smelled of cabbage and Mrs. Figg made him look at photographs of all the cats she'd ever owned.\n&quot;Now what?&quot; said Aunt Petunia, looking furiously at Harry as though he'd planned this. Harry knew he ought to feel sorry that Mrs. Figg had broken her leg, but it wasn't easy when he reminded himself it would be a whole year before he had to look at Tibbles, Snowy, Mr. Paws, and Tufty again."
                 }
             ]
         },
         "storyD": {
+            "interval":600000,
             "stories": [
                 {
                     "file": "dp_07.gif",
@@ -83,14 +89,17 @@
             ]
         },
         "storyE": {
+            "interval":600000,
             "stories": [
                 {
                     "file": "dp_09.gif",
-                    "passage": "Unlike the ghosts around them, Peeves the Poltergeist was the very reverse of pale and transparent. He was wearing a bright orange party hat, a revolving bow tie, and a broad grin on his wide, wicked face."
+                    "passage_top": "Unlike the ghosts around them, Peeves the Poltergeist was the very reverse of pale and transparent. He was wearing a bright orange party hat, a revolving bow tie, and a broad grin on his wide, wicked face.",
+                    "passage": ""
                 },
                 {
                     "file": "dp_10.gif",
-                    "passage": "&quot;I expect they've let it rot to give it a stronger flavor,&quot; said Hermione knowledgeably, pinching her nose and leaning closer to look at the putrid haggis.&quot;Can we move? I feel sick,&quot; said Ron.\nThey had barely turned around, however, when a little man swooped suddenly from under the table and came to a halt in midair before them."
+                    "passage_top": "&quot;I expect they've let it rot to give it a stronger flavor,&quot; said Hermione knowledgeably, pinching her nose and leaning closer to look at the putrid haggis.&quot;Can we move? I feel sick,&quot; said Ron.\nThey had barely turned around, however, when a little man",
+                    "passage": "swooped suddenly from under the table and came to a halt in midair before them."
                 }
             ]
         }

@@ -6,14 +6,23 @@ widget = {
             var $content = $('.content', el);
             $content.empty();
 
-            for (var i = 0; i < data.news.articles.length; i++) {
+            for (var i = 0; i < 8; i++) {
                 var article = data.news.articles[i];
-                $content.append(
-                    "<div class='news-story'>" +
-                    "<img class='thumb' src='" + article.urlToImage + "'></img>" +
-                    "<div class='title'>" + article.title + "</div>" +
-                    "</div>"
-                );
+                if (i % 2 == 0) {
+                    $content.append(
+                        "<div class='news-story'>" +
+                        "<img class='thumb' src='" + article.urlToImage + "'></img>" +
+                        "<div class='title'>" + article.title + "</div>" +
+                        "</div>"
+                    );
+                } else {
+                    $content.append(
+                        "<div class='news-story'>" +
+                        "<div class='title'>" + article.title + "</div>" +
+                        "<img class='thumb' src='" + article.urlToImage + "'></img>" +
+                        "</div>"
+                    );
+                }
             }
         }
     }

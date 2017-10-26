@@ -6,7 +6,7 @@ widget = {
             var $content = $('.content', el);
             $content.empty();
 
-            for (var i = 0; i < 8; i++) {
+            for (var i = 0; i < data.news.articles.length; i++) {
                 var article = data.news.articles[i];
                 if (i % 2 == 0) {
                     $content.append(

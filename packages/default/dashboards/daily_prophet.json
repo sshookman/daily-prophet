@@ -27,10 +27,12 @@
 
         },
         "headlines": {
+            "interval":3600000,
             "host": "https://newsapi.org/v1/articles?source=google-news&sortBy=top&apiKey=",
             "authName": "news"
         },
         "weather": {
+            "interval":3600000,
             "host": "http://api.wunderground.com/api/{KEY}/forecast/q/IL/Orland_Park.json",
             "authName": "weather"
         },
